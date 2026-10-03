@@ -1,0 +1,7 @@
+ticker,model,original_n,left_trim,alignment_action,final_n,evaluation_rv,alignment_rule,rescaled,sde_results_subdir,common_n,mean_common_rv
+SPX,SDE,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,GARCH-Ito,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,Realized-GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,HEAVY,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,HAR-QML,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662

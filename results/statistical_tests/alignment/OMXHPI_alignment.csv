@@ -1,0 +1,7 @@
+ticker,model,original_n,left_trim,alignment_action,final_n,evaluation_rv,alignment_rule,rescaled,sde_results_subdir,common_n,mean_common_rv
+OMXHPI,SDE,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,GARCH-Ito,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,Realized-GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,HEAVY,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,HAR-QML,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281

@@ -1,0 +1,103 @@
+ticker,model,original_n,left_trim,alignment_action,final_n,evaluation_rv,alignment_rule,rescaled,sde_results_subdir,common_n,mean_common_rv
+SPX,SDE,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,GARCH-Ito,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,Realized-GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,HEAVY,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SPX,HAR-QML,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.6779470208056662
+SSMI,SDE,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+SSMI,GARCH-Ito,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+SSMI,GARCH,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+SSMI,Realized-GARCH,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+SSMI,HEAVY,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+SSMI,HAR-QML,2258,0,original,2258,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2258,0.638322860938884
+STI,SDE,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+STI,GARCH-Ito,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+STI,GARCH,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+STI,Realized-GARCH,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+STI,HEAVY,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+STI,HAR-QML,1289,0,original,1289,SDE_common_RV,keep last common_n observations,False,proposed_SDE,1289,0.3627186190845617
+OMXSPI,SDE,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+OMXSPI,GARCH-Ito,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+OMXSPI,GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+OMXSPI,Realized-GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+OMXSPI,HEAVY,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+OMXSPI,HAR-QML,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5011268188512518
+KS11,SDE,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+KS11,GARCH-Ito,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+KS11,GARCH,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+KS11,Realized-GARCH,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+KS11,HEAVY,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+KS11,HAR-QML,2223,0,original,2223,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2223,0.4832486999550158
+OMXHPI,SDE,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,GARCH-Ito,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,Realized-GARCH,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,HEAVY,2037,0,original,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+OMXHPI,HAR-QML,2038,1,drop first 1,2037,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2037,0.5293302405498281
+SSEC,SDE,2185,1,drop first 1,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+SSEC,GARCH-Ito,2184,0,original,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+SSEC,GARCH,2184,0,original,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+SSEC,Realized-GARCH,2184,0,original,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+SSEC,HEAVY,2184,0,original,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+SSEC,HAR-QML,2185,1,drop first 1,2184,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2184,1.2725169001831502
+KSE,SDE,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+KSE,GARCH-Ito,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+KSE,GARCH,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+KSE,Realized-GARCH,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+KSE,HEAVY,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+KSE,HAR-QML,2196,0,original,2196,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2196,0.5988205601092896
+MXX,SDE,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+MXX,GARCH-Ito,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+MXX,GARCH,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+MXX,Realized-GARCH,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+MXX,HEAVY,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+MXX,HAR-QML,2261,0,original,2261,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2261,0.6386864219371959
+IXIC,SDE,2261,1,drop first 1,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+IXIC,GARCH-Ito,2260,0,original,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+IXIC,GARCH,2260,0,original,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+IXIC,Realized-GARCH,2260,0,original,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+IXIC,HEAVY,2260,0,original,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+IXIC,HAR-QML,2261,1,drop first 1,2260,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2260,0.7375211902654867
+OMXC20,SDE,2019,1,drop first 1,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+OMXC20,GARCH-Ito,2018,0,original,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+OMXC20,GARCH,2018,0,original,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+OMXC20,Realized-GARCH,2018,0,original,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+OMXC20,HEAVY,2018,0,original,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+OMXC20,HAR-QML,2019,1,drop first 1,2018,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2018,0.9631275421209118
+STOXX50E,SDE,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+STOXX50E,GARCH-Ito,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+STOXX50E,GARCH,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+STOXX50E,Realized-GARCH,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+STOXX50E,HEAVY,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+STOXX50E,HAR-QML,2292,0,original,2292,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2292,1.0515230570680627
+SMSI,SDE,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+SMSI,GARCH-Ito,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+SMSI,GARCH,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+SMSI,Realized-GARCH,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+SMSI,HEAVY,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+SMSI,HAR-QML,2102,0,original,2102,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2102,1.0206464034253093
+N225,SDE,2199,1,drop first 1,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+N225,GARCH-Ito,2198,0,original,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+N225,GARCH,2198,0,original,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+N225,Realized-GARCH,2198,0,original,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+N225,HEAVY,2198,0,original,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+N225,HAR-QML,2199,1,drop first 1,2198,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2198,0.7742048680618744
+OSEAX,SDE,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+OSEAX,GARCH-Ito,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+OSEAX,GARCH,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+OSEAX,Realized-GARCH,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+OSEAX,HEAVY,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+OSEAX,HAR-QML,2247,0,original,2247,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2247,0.98170261682243
+RUT,SDE,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+RUT,GARCH-Ito,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+RUT,GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+RUT,Realized-GARCH,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+RUT,HEAVY,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+RUT,HAR-QML,2259,0,original,2259,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2259,0.7273901460823373
+NSEI,SDE,2233,1,drop first 1,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
+NSEI,GARCH-Ito,2232,0,original,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
+NSEI,GARCH,2232,0,original,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
+NSEI,Realized-GARCH,2232,0,original,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
+NSEI,HEAVY,2232,0,original,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
+NSEI,HAR-QML,2233,1,drop first 1,2232,SDE_common_RV,keep last common_n observations,False,proposed_SDE,2232,0.6736927016129033
